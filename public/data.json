@@ -1,0 +1,86 @@
+[
+  {
+    "Recipeiamge": "../src/image/food_7.png",
+    "Recipe_id": 1,
+    "Recipe_name": "Spaghetti Bolognese",
+    "Short_description": "Classic Italian pasta dish with savory meatsauce.",
+    "Ingredients": [
+      "550g chicken",
+      "120ml soy sauce",
+      "200g basil leaf",
+      "400g mushroom"
+    ],
+    "Preparing_time": "30 min",
+    "Calories": "320 calories"
+  },
+  {
+    "Recipeiamge": "../src/image/food_8.png",
+    "Recipe_id": 2,
+    "Recipe_name": "Chicken Caesar Salad",
+    "Short_description": "Classic Italian pasta dish with savory meatsauce.",
+    "Ingredients": [
+      "500g ground beef",
+      "1 onion,chopped",
+      "200g basil leaf",
+      "400g mushroom"
+    ],
+    "Preparing_time": "30 min",
+    "Calories": "520 calories"
+  },
+  {
+    "Recipeiamge": "../src/image/food_9.png",
+    "Recipe_id": 3,
+    "Recipe_name": "Salad",
+    "Short_description": "Classic Italian pasta dish with savory meatsauce.",
+    "Ingredients": [
+      "500g ground beef",
+      "1 onion,chopped",
+      "200g basil leaf",
+      "400g mushroom"
+    ],
+    "Preparing_time": "30 min",
+    "Calories": "600 calories"
+  },
+  {
+    "Recipeiamge": "../src/image/food_3.png",
+    "Recipe_id": 4,
+    "Recipe_name": "Chiken Bun",
+    "Short_description": "Classic Italian pasta dish with savory meatsauce.",
+    "Ingredients": [
+      "500g ground beef",
+      "1 onion,chopped",
+      "200g basil leaf",
+      "400g mushroom"
+    ],
+    "Preparing_time": "30 min",
+    "Calories": "220 calories"
+  },
+  {
+    "Recipeiamge": "../src/image/food_4.png",
+    "Recipe_id": 5,
+    "Recipe_name": "Chicken Tikka",
+    "Short_description": "Classic Italian pasta dish with savory meatsauce.",
+    "Ingredients": [
+      "500g ground beef",
+      "1 onion,chopped",
+      "200g basil leaf",
+      "400g mushroom"
+    ],
+    "Preparing_time": "30 min",
+    "Calories": "300 calories"
+  },
+  {
+    "Recipeiamge": "../src/image/food_5.png",
+    "Recipe_id": 6,
+    "Recipe_name": "Chicken Mashroom",
+    "Short_description": "Classic Italian pasta dish with savory meatsauce.",
+    "Ingredients": [
+      "500g ground beef",
+      "1 onion,chopped",
+      "200g basil leaf",
+      "400g mushroom"
+    ],
+    "Preparing_time": "30 min",
+    "Calories": "700 calories"
+  }
+]
