@@ -30,7 +30,7 @@ const Recipe = () => {
   };
 
   useEffect(() => {
-    fetch("/data.json")
+    fetch("data.json")
       .then((res) => {
         return res.json();
       })
